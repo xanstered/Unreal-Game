@@ -1198,3 +1198,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.16-16.50.13:892][  1]LogPakFile: Destroying PakPlatformFile
 [2025.10.16-16.50.26:441][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 48360.77 ms.
 [2025.10.16-16.50.42:778][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 64866.15 ms.
+[2025.10.16-16.50.56:200][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 78110.52 ms.
+[2025.10.16-16.51.05:492][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 87580.91 ms.
+[2025.10.16-16.51.09:950][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 92037.62 ms.
+[2025.10.16-16.51.22:348][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 104258.94 ms.
+[2025.10.16-16.51.36:349][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 118438.02 ms.
+[2025.10.16-16.51.44:889][  1]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 126978.02 ms.
+[2025.10.16-16.51.45:365][  1]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.16-16.51.45:423][  1]LogExit: Exiting.
+[2025.10.16-16.51.45:456][  1]Log file closed, 10/16/25 18:51:45
